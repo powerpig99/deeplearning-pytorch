@@ -1,0 +1,13 @@
+name: pytorch
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - jupyter
+  - matplotlib
+  - numpy
+  - libjpeg-turbo
