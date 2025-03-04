@@ -12,3 +12,4 @@ dependencies:
   - numpy
   - libjpeg-turbo
   - h5py
+  - imageio
