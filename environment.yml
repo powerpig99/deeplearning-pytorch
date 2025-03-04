@@ -11,3 +11,4 @@ dependencies:
   - matplotlib
   - numpy
   - libjpeg-turbo
+  - h5py
