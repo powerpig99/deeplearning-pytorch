@@ -13,3 +13,5 @@ dependencies:
   - libjpeg-turbo
   - h5py
   - imageio
+  - imageio-ffmpeg
+  - scipy
